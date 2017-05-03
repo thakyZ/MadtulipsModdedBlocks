@@ -1,0 +1,11 @@
+{
+  "author" : "thakyZ",
+  "description" : "This is a port of Madtulip's Spaceship mod that only includes it's blocks and objects. Nothing else. You'll need BYOS to add the ability to create your own ship. This port is currently not completely done. And I am porting the Hull Plating & Blocks mod while I am at it.",
+  "friendlyName" : "Madtulips Modded Blocks",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/918518153",
+  "name" : "mtmoddedblocks",
+  "requires" : [],
+  "steamContentId" : "918518153",
+  "version" : "1.0"
+}
