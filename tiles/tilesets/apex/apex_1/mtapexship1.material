@@ -2,7 +2,7 @@
   "materialId" : 51254,
   "materialName" : "mtapexship1",
   "particleColor" : [194, 194, 194, 255],
-  "itemDrop" : "apexship1",
+  "itemDrop" : "mtapexship1",
   "shortdescription" : "Apex Hull Section A",
   "description" : "The 'Cutting Edge' Tileset",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
