@@ -1,10 +1,10 @@
 {
   "input" : [
-	{ "item" : "money", "count" : 500 }
+    { "item" : "tungstenbar", "count" : 5 }
   ],
   "output" : {
-    "item" : "madtulip_thermodynamics_console",
+    "item" : "mtthermodynamicsconsole",
     "count" : 1
   },
-  "groups" : [ "madtulip_shipstation", "shipwired" ]
+  "groups" : [ "mtshipstation", "shipwired" ]
 }

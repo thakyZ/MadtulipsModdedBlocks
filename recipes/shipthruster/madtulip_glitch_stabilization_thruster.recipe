@@ -1,10 +1,10 @@
 {
   "input" : [
-	{ "item" : "money", "count" : 400 }
+    { "item" : "tungstenbar", "count" : 5 }
   ],
   "output" : {
-    "item" : "madtulip_glitch_stabilization_thruster",
+    "item" : "mtglitchstabilizationthruster",
     "count" : 1
   },
-  "groups" : [ "madtulip_shipstation", "shipthruster" ]
+  "groups" : [ "mtshipstation", "shipthruster" ]
 }

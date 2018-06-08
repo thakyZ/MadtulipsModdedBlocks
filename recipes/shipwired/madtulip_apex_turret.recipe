@@ -1,10 +1,10 @@
 {
   "input" : [
-	{ "item" : "money", "count" : 1000 }
+    { "item" : "tungstenbar", "count" : 5 }
   ],
   "output" : {
-    "item" : "madtulip_apex_turret",
+    "item" : "mtapexturret",
     "count" : 1
   },
-  "groups" : [ "madtulip_shipstation", "shipwired" ]
+  "groups" : [ "mtshipstation", "shipwired" ]
 }
