@@ -11,7 +11,7 @@
 	"inventoryIcon" : "mthumanturreticon.png",
 	"orientations" : [
 		{
-			"dualImage" : "mthumanturrettopON.png:<color>.<frame>",
+			"dualImage" : "mthumanturrettopON.png",
 			"imagePosition" : [-49,-16],
 			"frames" : 1,
 			"animationCycle" : 1,
@@ -19,7 +19,7 @@
 			"anchors" : [ "bottom" ]
 		},
 		{
-			"dualImage" : "mthumanturretbottomON.png:<color>.<frame>",
+			"dualImage" : "mthumanturretbottomON.png",
 			"imagePosition" : [-49,-16],
 			"frames" : 1,
 			"animationCycle" : 1,

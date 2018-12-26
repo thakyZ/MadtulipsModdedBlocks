@@ -11,7 +11,7 @@
 	"inventoryIcon" : "mthumanturretmissileicon.png",
 	"orientations" : [
 		{
-			"dualImage" : "mthumanturretmissiletopON.png:<color>.<frame>",
+			"dualImage" : "mthumanturretmissiletopON.png",
 			"imagePosition" : [-25,-16],
 			"frames" : 1,
 			"animationCycle" : 1,
@@ -19,7 +19,7 @@
 			"anchors" : [ "bottom" ]
 		},
 		{
-			"dualImage" : "mthumanturretmissilebottomON.png:<color>.<frame>",
+			"dualImage" : "mthumanturretmissilebottomON.png",
 			"imagePosition" : [-25,-16],
 			"frames" : 1,
 			"animationCycle" : 1,
