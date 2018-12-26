@@ -8,7 +8,7 @@
   "price" : 250,
   "printable" : false,
   
-  "inventoryIcon" : "mthumanlandinggear_icon.png",
+  "inventoryIcon" : "mthumanlandinggearicon.png",
   "orientations" : [
     {
       "dualImage" : "mthumanlandinggear.png:<color>.<frame>",
