@@ -1,0 +1,46 @@
+{
+  "objectName" : "mtvent",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 300,
+
+  "description" : "Sterile, recycled air whirs through the fanblades at a steady pace.",
+  "shortdescription" : "Life Support System",
+  "race" : "human",
+
+  "apexDescription" : "A vent.",
+  "avianDescription" : "A vent to recycle air.",
+  "floranDescription" : "Blowing grate.",
+  "glitchDescription" : "Analyse. The recycling process isn't fully functional.",
+  "humanDescription" : "An uninspiring vent.",
+  "hylotlDescription" : "A vent with a fan.",
+
+  "inventoryIcon" : "madtulip_vent_icon.png",
+  "orientations" : [
+    {
+      "image" : "madtulip_vent_green.png:<color>.<frame>",
+      "imagePosition" : [-8, -8],
+      "frames" : 3,
+      "animationCycle" : 0.2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "animation" : "/ship parts/human/human_life_support_vent/madtulip_vent.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "Breach_Warning_Sound" : [ "Breach_Warning_Sound.wav" ]
+    }
+  },
+  "animationParts" : {
+    "O2_is_ok" : "/ship parts/human/human_life_support_vent/madtulip_vent_green.png",
+    "O2_is_bad" : "/ship parts/human/human_life_support_vent/madtulip_vent_red.png",
+    "O2_is_not_used" : "/ship parts/human/human_life_support_vent/madtulip_vent_offline.png"
+  },
+  "animationPosition" : [-8, -8],
+
+  "soundEffect" : "/sfx/objects/bunkervent.ogg"
+}
