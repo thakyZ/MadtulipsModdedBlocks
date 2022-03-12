@@ -11,7 +11,7 @@
   "inventoryIcon" : "mtthermodynamicsconsoleicon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image": "mtthermodynamics_console.png:<color>.<frame>", "fullbright": true }, { "image": "mtthermodynamicsconsolelit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image": "mtthermodynamicsconsole.png:<color>.<frame>", "fullbright": true }, { "image": "mtthermodynamicsconsolelit.png:<color>.<frame>" } ],
       "imagePosition" : [-30, -16],
       "frames" : 8,
       "animationCycle" : 1.0,
